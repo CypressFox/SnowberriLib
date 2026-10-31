@@ -1,10 +1,11 @@
 {
   "homepage": "https://github.com/SnowberriFox/SnowberriLib-Updates/releases",
   "promos": {
-    "1.21.1-latest": "1.0.0",
-    "1.21.1-recommended": "1.0.0"
+    "1.21.1-latest": "1.1.0",
+    "1.21.1-recommended": "1.1.0"
   },
   "1.21.1": {
+    "1.1.0": "SnowberriLib 1.1.0: a server updater for Crafty that keeps all four mods up to date as a set, checked against GitHub, with a backup first and a rollback if the server doesn't come up. Off until you add a Crafty API key.",
     "1.0.0": "SnowberriLib 1.0.0: the shared bits PokéShift, FoxTrot and Deeper Down need."
   }
 }
